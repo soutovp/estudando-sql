@@ -28,7 +28,7 @@ create table usuarios(
     zen double unsigned not null default 0
 );
 
-insert into usuarios(login,senha) values ('soutovp','3866870a');
+insert into usuarios(login,senha) values ('login','senha');
 
 /*TABELA DA LOJA*/
 create table loja(
